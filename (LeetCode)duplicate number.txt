@@ -1,3 +1,5 @@
+// doing some changes
+
 // #include <bits/stdc++.h>
 // using namespace std;
 // int duplicate(vector<int>arr){
