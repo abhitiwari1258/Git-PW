@@ -42,6 +42,8 @@ function App() {
       <ChatMsg message="Today is August 8" sender="robot" />
       <ChatMsg message="how about Flip a Coin" sender="user" />
       <ChatMsg message="Sure! You got tails" sender="robot" />
+      <ChatMsg message="how about Roll a Dice" sender="user" />
+      <ChatMsg message="Sure! You got 6" sender="robot" />
     </>
   )
 }
